@@ -9,19 +9,19 @@
   
   <h3>Working in: </h3>
   <ul>
-    <li>HTML 
-    <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" width=50 />
+    <li>
+    <img src="https://www.svgrepo.com/show/508837/html5-01.svg" width=50 />
     </li>
-    <li>CSS
+    <li>
     <img src="https://www.svgrepo.com/show/452185/css-3.svg" width=50 />
     </li>   
-    <li>SCSS
+    <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width=50/>
     </li>
-    <li>JavaScript
+    <li>
     <img src="https://www.svgrepo.com/show/452045/js.svg" width=50 />
     </li>
-    <li>React.JS
+    <li>
     <img src="https://www.svgrepo.com/show/354259/react.svg" width=50 />
     </li>
   </ul>
