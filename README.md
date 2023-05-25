@@ -7,7 +7,8 @@
     <li>🏴󠁧󠁢󠁥󠁮󠁧󠁿 & 🇭🇷 language professor </li>
   </ul>
   
-  <ul>Working in:
+  <h3>Working in: </h3>
+  <ul>
     <li>HTML </li>
     <li>CSS</li>   
     <li>SCSS</li>
