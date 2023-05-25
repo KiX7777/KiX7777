@@ -7,9 +7,13 @@
     <li>🏴󠁧󠁢󠁥󠁮󠁧󠁿 & 🇭🇷 language professor </li>
   </ul>
   
-  <p>Working in:
-
-  </p>
+  <ul>Working in:
+    <li>HTML </li>
+    <li>CSS</li>   
+    <li>SCSS</li>
+    <li>JavaScript</li>
+    <li>React.JS</li>
+  </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiX7777&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
