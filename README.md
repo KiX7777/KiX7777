@@ -10,7 +10,7 @@
   <h3>Working in: </h3>
   <ul>
     <li>
-    <img src="https://www.svgrepo.com/show/508837/html5-01.svg" width=50 />
+    <img src="https://www.svgrepo.com/show/349402/html5.svg" width=50 />
     </li>
     <li>
     <img src="https://www.svgrepo.com/show/452185/css-3.svg" width=50 />
