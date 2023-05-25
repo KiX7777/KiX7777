@@ -8,7 +8,7 @@
   </ul>
   
   <p>Working in:
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=50  />
+  <img src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies.png" width=50  />
   </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiX7777&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
