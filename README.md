@@ -4,7 +4,7 @@
 <h1>Kristian Božić<h1>
   <ul>
     <li>Frontend developer </li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width=50 /> & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Croatia_at_the_UN.svg/640px-Flag_of_Croatia_at_the_UN.svg.png" width=50/>language professor </li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width=50 /> & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Croatia_at_the_UN.svg/640px-Flag_of_Croatia_at_the_UN.svg.png" width=50/> language professor </li>
   </ul>
   
   <h3>Working in: </h3>
