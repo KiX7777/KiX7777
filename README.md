@@ -1,9 +1,4 @@
-<style>
 
-    
-    .languages{display: flex;  justify-content: space-around;}
-    li{list-style-type:none}
-</style>
 
 <h1>Kristian Božić<h1>
   <ul>
